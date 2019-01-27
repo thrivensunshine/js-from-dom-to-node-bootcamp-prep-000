@@ -1,2 +1,2 @@
 // write your code below!
-consolelog("Hello, World");
+console.log("Hello, World");
